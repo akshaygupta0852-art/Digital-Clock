@@ -1,4 +1,4 @@
 # Digital-Clock
 This is my first git repository.
 
-Author - Akshay Dadarya
+<h1>Author - Akshay Dadarya</h1>
